@@ -1,0 +1,9 @@
+{
+  "id": 12345,
+  "login": "user-123",
+  "name": "Jakub",
+  "type": "User",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/59649467?v=4",
+  "createdAt": "2020-01-08T11:41:34Z",
+  "calculations": 25.0
+}
